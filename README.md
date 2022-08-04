@@ -1,7 +1,7 @@
 ### E aí, belê? Eu sou o Douglas Filho
 
-- 🔭 Pretendo me especializar em Front-end, Cursando Bacharelado de Ciências da Computação
-- 🌱 Atualmente estou aprendendo sobre JS, HTML e CSS
+- 🔭 Pretendo me especializar em Front-end e no futuro me tornar FullStack, Cursando Bacharelado de Ciências da Computação
+- 🌱 Atualmente estou aprendendo sobre JS, HTML e CSS. Porém ja tive experiência com C++ e Python
 - 📫 Entre em contato por e-mail ou WhatsApp
 - 🤔 Fun fact: Amo esportes e me exercitar, principalmente escutando um som!
 
