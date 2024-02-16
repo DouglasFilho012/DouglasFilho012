@@ -1,4 +1,4 @@
-### E aí, belê? Eu sou o Douglas Filho
+### E aí, tranquilo? Eu sou o Douglas Cavalcante
 
 - 🔭 Pretendo me especializar em Front-end e no futuro me tornar FullStack, Cursando Bacharelado de Ciências da Computação
 - 🌱 Atualmente estou aprendendo sobre JS, HTML e CSS. Porém ja tive experiência com C++ e Python
