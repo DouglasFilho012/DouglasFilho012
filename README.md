@@ -1,7 +1,7 @@
 ### E aí, tranquilo? Eu sou o Douglas Cavalcante
 
-- 🔭 Pretendo me especializar em Front-end e no futuro me tornar FullStack, Cursando Bacharelado de Ciências da Computação
-- 🌱 Atualmente estou aprendendo sobre JS, HTML e CSS. Porém ja tive experiência com C++ e Python
+- 🔭 Atualmente cursando Bacharelado em Ciências da Computação (6º semestre) - Estudando: JAVA, Swift e SQL
+- 🌱 Estudando sobre: JAVA, Swift e SQL. Porém ja tive experiência com C++, Python, JS, HTML5 e CSS.
 - 📫 Entre em contato por e-mail ou WhatsApp
 - 🤔 Fun fact: Amo esportes e me exercitar, principalmente escutando um som!
 
@@ -11,11 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasFilho012&layout=compact&langs_count=7&theme=blue"/> 
  </div>
   <div style="display: inline_block"><br>
-   <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Doug-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Doug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Doug-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
+  <img align="center" alt="Doug-JAVA" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg "> 
+  <img align="center" alt="Doug-Swift" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" > 
+  <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Doug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Doug-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
   
   </div>
    
