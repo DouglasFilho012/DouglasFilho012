@@ -1,6 +1,6 @@
 ### E aí, tranquilo? Eu sou o Douglas Cavalcante
 
-- 🔭 Atualmente cursando Bacharelado em Ciências da Computação (6º semestre) - Estudando: JAVA, Swift e SQL
+- 🔭 Atualmente cursando Bacharelado em Ciências da Computação (6º semestre) - (Procurando primeira experiência na área)
 - 🌱 Estudando sobre: JAVA, Swift e SQL. Porém ja tive experiência com C++, Python, JS, HTML5 e CSS.
 - 📫 Entre em contato por e-mail ou WhatsApp
 - 🤔 Fun fact: Amo esportes e me exercitar, principalmente escutando um som!
